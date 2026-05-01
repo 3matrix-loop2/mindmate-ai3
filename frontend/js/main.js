@@ -3,7 +3,8 @@
 //  App initialization, navigation, auth, shared state
 // ═══════════════════════════════════════
 
-const API_BASE = 'http://localhost:5000/api';
+// const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://mindmate-ai-bqwg.onrender.com/api';
 
 // ─── Shared App State ───
 window.appState = {
